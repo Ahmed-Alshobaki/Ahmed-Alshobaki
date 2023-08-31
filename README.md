@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Al-Shobki</h1>
-<h3 align="center">A passionate frontend developer from I'm a student developer. I specialize in Web-Development and Flutter</h3>
+<h3 align="center">A passionate frontend and back end developer from I'm a student developer. I specialize in Web-Development and Flutterr</h3>
 
 - 🔭 I’m currently working on **I’m currently working on expanding my knowledge of full-stack Mobile development.**
 
