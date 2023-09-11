@@ -19,7 +19,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-alshobaki&" alt="ahmed-alshobaki" /></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">        
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-alshobaki&show_icons=true&locale=en&layout=compact" alt="ahmed-alshobaki" /></p>
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
