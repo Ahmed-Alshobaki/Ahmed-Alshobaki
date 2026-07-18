@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Al-Shobki</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Al-SHOBAKI</h1>
 <h3 align="center">A passionate Full-Stack  developer from I'm a student developer. I specialize in Web and Mobile Development</h3>
 
 - 🔭 I’m currently working on expanding my knowledge of Mobile development.**
